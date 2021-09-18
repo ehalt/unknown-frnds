@@ -1,0 +1,28 @@
+.top-txt{
+    text-align: center;
+}
+
+.top-txt h1{
+    font-size: 30pt;
+}
+.top-txt hr{
+    width: 45%;
+}
+.top-txt hr:hover{
+    height: 7px;
+    background-color: darkorange;
+    border:none;
+    border-radius: 0px 10px 0px 10px;
+}
+
+
+.total-frnd {
+    width: 80%;
+    margin: auto;
+}
+
+.maped {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+}

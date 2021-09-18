@@ -1,0 +1,27 @@
+
+
+
+.sngl p{
+    font-size: 20px;
+}
+
+
+.person-wrap{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.single-person {
+    width: 100%;
+    background-color: antiquewhite;
+    padding: 30px;
+    margin-top: 5%;
+    border-radius: 5px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.single-person hr{
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}

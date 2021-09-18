@@ -1,0 +1,13 @@
+
+.friends-bdy {
+    background-color: lightblue;
+    padding: 20px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.frnd-btn{
+    border: none;
+    padding: 5px 7px;
+    border-radius: 2px;
+    color:rgb(223, 159, 121);
+}

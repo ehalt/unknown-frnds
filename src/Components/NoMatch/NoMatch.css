@@ -1,0 +1,15 @@
+
+
+.nomatch-wrap {
+    text-align: center;
+}
+
+h2{
+    font-size: 30pt;
+}
+
+mark {
+    background-color: bisque;
+    padding: 5px 9px;
+    border-radius: 0px 10px 0px 10px;
+}
